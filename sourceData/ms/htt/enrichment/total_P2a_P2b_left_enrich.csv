@@ -1,0 +1,2 @@
+ID,Description,poi_Cat,poi_Qty,bg_Cat,bg_Qty,pvalue,p.adjust,qvalue,geneID,Count,Cat,foldEnrichment
+GO:0001701,in utero embryonic development,6,13,489,15490,1.364116949701082e-6,5.32005610383422e-4,3.245162427709943e-4,Suv39h1/Ccnb1/Tpm1/Ncapg2/Cnot2/Phf6,6,BP,14.62010382255781
